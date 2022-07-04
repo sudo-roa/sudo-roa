@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+| 名称/リンク | 内容 |
+|:---:|:---:|
+| [TIL](https://roatil.netlify.app) | 勉強したことのまとめ |
+| [マンダラート](https://sudo-roa.github.io/mandalat/Mandalat.html) | マンダラートを簡単に作成できる |
+| [ポートフォリオver1](https://sudo-roa.github.io/portfolio/) | ウェブ制作勉強開始2週間で作った雑なポートフォリオ |
+| [すごろく](https://sudo-roa.github.io/sugoroku) | ただのすごろく |
+| [ひらひえ翻訳機](https://sudo-roa.github.io/hieroglyph/hieroglyph.html) | ノリで作ったひらがな⇔ヒエログリフ翻訳機 |
+
 <!--
 **sudo-roa/sudo-roa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
